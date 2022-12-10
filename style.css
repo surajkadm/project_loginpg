@@ -1,0 +1,55 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+header{
+    font-size: larger;
+}
+
+body{
+    padding-left: 25em;
+    padding-top: 10em;
+}
+form{
+    font-size: 1.2em;
+}
+
+#fulln{
+    font-size: 0.8em;
+    width:60em;
+    border-top: 2em;
+    border-right: 2em;
+    border-left: 2em;
+}
+
+#email{
+    font-size: 0.8em;
+    width:60em;
+    border-top: 2em;
+    border-right: 2em;
+    border-left: 2em;
+}
+
+#password{
+    font-size: 0.8em;
+    width:60em;
+    border-top: 2em;
+    border-right: 2em;
+    border-left: 2em;
+}
+
+#date{
+    font-size: 1em;
+    width:59.5em;
+    border-top: 2em;
+    border-right: 2em;
+    border-left: 2em;
+}
+button{
+    font-size: 1em;
+    background-color: white;
+    color: black;
+    padding: 0.4em 1.8em;
+}
